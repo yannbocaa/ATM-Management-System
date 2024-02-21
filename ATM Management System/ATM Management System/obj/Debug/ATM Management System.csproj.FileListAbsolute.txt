@@ -1,0 +1,19 @@
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\bin\Debug\ATM Management System.pdb
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM Management System.exe
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM Management System.pdb
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Account.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Balance.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.ChangePin.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Deposit.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.HOME.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Login.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.ATMLoad.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.FastCASH.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.MiniStatement.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Withdraw.resources
